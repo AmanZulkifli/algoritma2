@@ -1,0 +1,6 @@
+// let jam = prompt("masukan jam")
+// let menit = prompt("masukan menit")
+// let detik = prompt("masukan detik")
+
+// Output = Number(jam)*3600 + Number(menit)*60 + Number(detik)
+// console.log(`hasilnya ${Output}`)

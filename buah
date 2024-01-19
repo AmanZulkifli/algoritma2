@@ -1,0 +1,9 @@
+// let berat = prompt(`berapa kilo?`)
+
+// const harga = 5000*Number(berat)
+// diskon = harga*5/100
+// hargaasli = harga - diskon
+
+// console.log(`harga asli = ${harga}`)
+// console.log(`besar diskon = ${diskon}`)
+// console.log(`yang harus dibayar = ${hargaasli}`)

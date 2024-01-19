@@ -1,0 +1,8 @@
+// let input = prompt("masukan detik");
+
+// konversi = input%3600  
+// let jam = Number(input)/3600
+// let menit = Number(konversi)/60
+// let detik = Number(konversi)%60
+
+// output = console.log(`${Math.floor(jam)} jam, ${Math.floor(menit)} menit, dan ${Math.floor(detik)} detik`)

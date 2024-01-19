@@ -1,0 +1,16 @@
+// let jam = prompt("masukan jam")
+// let menit = prompt("masukan menit")
+// let detik = prompt("masukan detik")
+
+// Output = Number(jam)*3600 + Number(menit)*60 + (Number(detik) +1)
+
+// konversi = Output%3600  
+// let jam2 = Number(Output)/3600
+// let menit2 = Number(konversi)/60
+// let detik2 = Number(konversi)%60
+// if (jam2 == 24) {
+//     jam2 =('00')
+// } else {
+//     console.log(`Error`)
+// }
+// output = console.log(`${Math.floor(jam2)}:${Math.floor(menit2)}:${Math.floor(detik2)}`)

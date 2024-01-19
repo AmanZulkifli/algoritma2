@@ -1,0 +1,7 @@
+// let input = prompt(`Bilangan bulatanya`)
+
+// let satuan = input%10
+// let puluhan = input%100-input%10
+// let ratusan = input%1000-input%100 
+
+// console.log(`${ratusan} ratusan, ${puluhan} puluhan, ${satuan} satuan`)

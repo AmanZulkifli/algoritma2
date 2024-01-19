@@ -1,0 +1,7 @@
+// let MTK = prompt("Nilai MTK")
+// let INDO = prompt("Nilai Indo")
+// let INGG = prompt("Nilai Bahasa inggris")
+// let DPK = prompt("Nilai DPK")
+// let Agama = prompt("Nilai Agama")
+
+// let hasil = (Number(MTK) + Number(INDO) + Number(INGG) + Number(DPK) + Number(Agama))/5

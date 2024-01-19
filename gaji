@@ -1,0 +1,10 @@
+// let nama = prompt("Siapakah nama kamoe?")
+// let gaji = prompt("Besar Gaji Pokok")
+// let tjg = Number(gaji)*20/100
+// let pjk = Number(gaji) + Number(tjg)*15/100
+// let bersih = Number(gaji) + Number(tjg) - Number(pjk)
+
+//     console.log(`Nama : ${nama}`)
+//     console.log(`Tunjangan : ${tjg}`)
+//     console.log(`pajak : ${pjk}`)
+//     console.log(`Gaji Bersih : ${bersih}`)

@@ -1,0 +1,32 @@
+// let i = 1;
+// let total = 0;
+// let terkecil;
+// let terbesar;
+
+// while (i <= 20) {
+
+
+// total += i
+
+// if (i === 1) {
+//     terkecil = i;
+//     terbesar = i;
+// } else {
+//     if (i < terkecil) {
+//         terkecil = i;
+//         }
+        
+//     if (i > terbesar) {
+//         terbesar = i;
+//         }
+//     }
+
+// i++;
+// }
+
+// let rata2 = total / terbesar;
+
+// console.log("Bilangan terkecil: " + terkecil);
+// console.log("Bilangan terbesar: " + terbesar);
+// console.log("Rata-rata: " + rata2);
+// console.log(total)

@@ -1,0 +1,9 @@
+// let suhu = prompt("masukan suhu saat ini(dalam bentuk celcius)")
+
+// if (suhu > 300) {
+//     console.log("Suhu saat ini adalah panas")
+// } else if (suhu < 250) {
+//     console.log("Suhu saat ini adalah dingin")
+// }else {
+//     console.log("Suhu saat ini adalah normal")
+// }
